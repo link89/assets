@@ -9,3 +9,6 @@ A repo to host assets file for open source project.
 
 * streamlit-ketcher
   * 0.0.1
+
+* package
+  * streamlit-ketcher 0.0.1.post1, with patch: https://github.com/mik-laj/streamlit-ketcher/pull/120
